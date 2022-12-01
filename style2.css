@@ -1,0 +1,28 @@
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:#E0E5E9;
+}
+li{
+    display: inline;
+    float: left;
+    border-right: 2px solid lightskyblue;
+}
+li a{
+    display: block;
+    color: #CC6D3D;
+    padding: 14px 16px;
+    background-color: #E0E5E9;
+    text-align: center;
+    text-decoration: none;
+}
+body{
+    background-color: #F9F7F0;
+}
+h1{
+    color: #CC6D3D;
+    font-size: 35px;
+    text-align: center;
+}
