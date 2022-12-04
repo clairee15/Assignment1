@@ -9,22 +9,15 @@ There is a navigation bar at the top, where users can navigate by pressing on th
 
 Next up, on the home page, there would be a brief description of the artist that I am advertising and a video is also attached so that users can view his latest music video. The artist's social media is attached and at the bottom, users can fill up the form to stay updated on news related to the artist. There are some photos of the artist. 
 
-Next, there is a media page. The media page displays all the albums that this artist has published and some tours that he had did before. It also includes ways to contact the artist if companies would like to work with him.
+Next, there is a media page. The media page displays all the albums that this artist has published and some tours that he had did before. It also includes ways to contact the artist if companies would like to work with him. His social media is also listed at the bottom of the page for easy access to his work.
 
-Next, there is a merchandise page. The artists has merchandise such as clothes, mugs, etc. There is a photo gallery that has the merchandises' names and their pricicng. Pricing of concert tickets are available as well.
- 
-### Existing Features
-
-
-### Features Left to Implement
-- subscription to news
-- merchandise gallery and prices
-- nagivation bar placement & brand logo
+Next, there is a merchandise page. The artists has merchandise such as clothes, mugs, etc. There is a photo gallery that has the merchandises' names and their pricicng. Concert Poster are available as well.
 
 ## Technologies Used
 CSS & HTML
 
 ## Testing
+Tested on chrome and mobile size
 
 ## Credits
 https://www.cenmilli.com/
@@ -35,8 +28,8 @@ https://www.cenmilli.com/
 TWITTER: https://twitter.com/cenmilli
 INSTAGRAM: https://www.instagram.com/centimillimental/
 SPOTIFY: https://open.spotify.com/artist/0aRqEPPTtQd3pGuB4tJxVw
-YOUTUBE: 
 Email and Mailbox
 
 ### Acknowledgements
+w3schools.com
 

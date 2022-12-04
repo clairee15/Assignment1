@@ -1,11 +1,3 @@
-/*div {
-  background-image: url("Given_EP_2.webp");
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
-  opacity:0.8;
-}*/
-
 iframe{
   opacity: 0.9;
 }
@@ -22,12 +14,12 @@ ul{
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color:#E0E5E9;
 }
 li{
     display: inline;
     float: left;
     border-right: 2px solid lightskyblue;
+    font-family: 'Fuzzy Bubbles';
 }
 li a{
     display: block;
@@ -37,17 +29,11 @@ li a{
     text-align: center;
     text-decoration: none;
 }
-/*li:a hover{
-  background-color:black;
-}*/
 
-h1{
+h1,h2{
     color: #CC6D3D;
     text-align: center;
-}
-h2{
-  color:black;
-  text-align:center;
+    font-family: 'Fuzzy Bubbles';
 }
 h3{
   text-align:center;
@@ -203,11 +189,6 @@ section {
     display: flex;
     flex-direction: column;
     border: 3px solid black;
-    /* let's set random images if we want to create cover images */
-    /*
-    background-image: url("https://picsum.photos/400/400");
-    background-size: cover;
-    */
   }
 
   .flex-img img {
