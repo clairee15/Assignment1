@@ -14,7 +14,7 @@ Next, there is a media page. The media page displays all the albums that this ar
 Next, there is a merchandise page. The artists has merchandise such as clothes, mugs, etc. There is a photo gallery that has the merchandises' names and their pricicng. Concert Poster are available as well.
 
 ## Technologies Used
-CSS & HTML
+CSS & HTML & JavaScript
 
 ## Testing
 Tested on chrome and mobile size
