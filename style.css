@@ -71,31 +71,23 @@ transition: 0.4s ease;
 border-radius: 5px;
 user-select: none;
 }
+
+/* Place the "previous button" on the left*/
 .Back{
 left:-50px;
 }
-/* Place the "forward button" to the right */
+
+/* Place the "forward button" on the right */
 .forward {
 right: -50px;
 }
 
-/*when the user hovers,add a black background with some little opacity */
+/*when the user hovers around, the button has some background color*/
 .Back:hover, .forward:hover {
 background-color: rgba(0,0,0,0.8);
 }
 
-/* Caption Info */
-.Info {
-color: #e3e3e3;
-font-size: 16px;
-padding: 10px 14px;
-position: absolute;
-bottom: 10px;
-width: 100%;
-text-align: center;
-}
-
-/* Worknumbering (1/3 etc) */
+/* Work on numbering */
 .MessageInfo {
 color: #f2f2f3;
 font-size: 14px;
@@ -104,7 +96,7 @@ position: absolute;
 top: 0;
 }
 
-/* The circles or bullets and indicators */
+/* Page indicators below the images*/
 .dots {
 cursor: pointer;
 height: 16px;
